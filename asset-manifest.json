@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gift-for-maria/static/css/main.0c28bf8e.css",
-    "main.js": "/gift-for-maria/static/js/main.6b023c8f.js",
+    "main.js": "/gift-for-maria/static/js/main.ba6e0d3b.js",
     "index.html": "/gift-for-maria/index.html",
     "main.0c28bf8e.css.map": "/gift-for-maria/static/css/main.0c28bf8e.css.map",
-    "main.6b023c8f.js.map": "/gift-for-maria/static/js/main.6b023c8f.js.map"
+    "main.ba6e0d3b.js.map": "/gift-for-maria/static/js/main.ba6e0d3b.js.map"
   },
   "entrypoints": [
     "static/css/main.0c28bf8e.css",
-    "static/js/main.6b023c8f.js"
+    "static/js/main.ba6e0d3b.js"
   ]
 }
